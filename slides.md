@@ -3,7 +3,7 @@ theme: '@cxphoenix/slidev-theme-fhsh-aisp'
 addons:
   - '@cxphoenix/slidev-addon-python-runner'
   - tldraw
-title: AiSP Slidev 模板
+title: Python 程式設計｜資料處理
 fonts:
   sans: 'edukai, Noto Sans Traditional Chinese, Roboto'
   serif: 'Zen Antique, edukai, Noto Serif Traditional Chinese'
@@ -20,6 +20,20 @@ layoutsIncludeInToc:
   - section
 ---
 
-# FHSH AiSP 模板
+# Python 程式設計
 
-## 快速建立
+## 資料處理
+
+---
+
+# OUTLINE
+
+<CustomToc />
+
+---
+src: pages/data-type.md
+---
+
+---
+src: pages/str-data.md
+---
